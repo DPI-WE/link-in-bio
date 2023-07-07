@@ -1,1 +1,46 @@
-# link-in-bio
+# Link In Bio
+
+## How to Contribute
+Add your own link in bio. Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
+
+## 2023-1.1 Hash Rockets
+- [Tan Sakeer](https://tansakeer.github.io/)
+- [Piyush Patel](https://prpdpigithub.github.io/)
+- [Ian Heraty](https://heratyian.github.io)
+- [Justin](https://github.com/Justin1111111111/Linkinbio.github.io)
+- [Paulina Delmore](https://pdelmore.github.io/)
+- [Hugo Torres](https://www.freegeek.org/computer-adoption)
+- [Josseph Downs](https://jdowns525.github.io/)
+- [Mark Smithivas](https://msmithivas.github.io/)
+- [Mohammad Ali (Not the Boxer; The Captain)](https://karimi65.github.io/links/)
+- [sunil patel](https://sunilkumar-techprep.github.io)
+
+## 2023-2.1 Fullstack Pancakes
+- [Kiara Jefferson](https://kiara-techprep.github.io/)
+- [Jazmin Eubanks](https://jazmineubanks.github.io/jazmin-eubanks.github.io/)
+- [Yanet Roman](https://yanettechprep.github.io)
+- [Dustin Doyle](https://dantexkilljoy.github.io)
+- [Ian Heraty](https://heratyian.github.io/)
+- [Jazmine Tran](https://jptran0.github.io/)
+- [Nayla Castillo](https://castnay.github.io/)
+- [Jorge Gomez](https://gomezzzer.github.io/Gomezzzer2.github.io) 
+- [Alejandra Landa](https://alelanda-rq.github.io/)
+- [Ian Heraty](https://heratyian.github.io/)
+- [Yanet Roman](https://yanettechprep.github.io)
+- [Dustin Doyle](https://dantexkilljoy.github.io)
+- [Ian Heraty](https://heratyian.github.io/)
+- [Camille Arce](https://camille-arce.github.io)
+- [Nancy Camacho](https://nancycamacho.com)
+- [Jazmine Tran](https://jptran0.github.io/)
+- [John Leavell](https://johnleavell.com/)
+- [Evan Burton](https://evanburton77.github.io/)
+- [Jazmine Tran](https://jptran0.github.io/)
+- [Brandi Davis](https://brdavis330.github.io/)
+- [Nayla Castillo](https://castnay.github.io/)
+- [Miroslava Osorio](https://mosorio1.github.io) 
+- [Ryan Mertz](https://ryanmertz3.github.io)
+- [Brylene Patrick](https://brylenelavelle.github.io/)
+- [Sinhue Herrera](https://sinhueherrera90.github.io/)
+- [Ximena Castillo](https://meenoow.github.io/)
+- [Adam Bonjoc](https://adabon1.github.io/)
+- [Samuel Reuben](https://sreuben1.github.io/)
