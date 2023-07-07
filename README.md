@@ -4,10 +4,13 @@ This repository is an index of [link in bio](https://chapters.firstdraft.com/cha
 ## How to Contribute
 Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
 
+## Instructors
+- [Raghu Betina](https://rag.hu/)
+- [Ian Heraty](https://heratyian.github.io)
+
 ## 2023-1.1 Hash Rockets
 - [Tan Sakeer](https://tansakeer.github.io/)
 - [Piyush Patel](https://prpdpigithub.github.io/)
-- [Ian Heraty](https://heratyian.github.io)
 - [Justin](https://github.com/Justin1111111111/Linkinbio.github.io)
 - [Paulina Delmore](https://pdelmore.github.io/)
 - [Hugo Torres](https://www.freegeek.org/computer-adoption)
