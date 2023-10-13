@@ -2,7 +2,7 @@
 This repository is an index of [link in bio](https://chapters.firstdraft.com/chapters/887) URLs.
 
 ## How to Contribute
-Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repository (or open in codespace), create a branch with format `<issue-number>-<your-initials>-<brief-description>`, add your link in bio, commit, push branch, create a pull request into main branch, and connect the pull request to your issue. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
+Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repository (or open in codespace), create a branch with format `<your-initials>-<brief-description>`, add your link in bio, commit, push branch, create a pull request into main branch, and connect the pull request to your issue. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
 
 ## Instructors
 - [Raghu Betina](https://rag.hu/)
