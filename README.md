@@ -56,5 +56,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Kat Jarboe](https://melo616.github.io/)
 - [Thierry Chau] (https://quiet-bird-3083.fly.dev/)
 - [Jason Ho](https://jasonho404.github.io/links/)
+- [Jorge Pioquinto](https://young-water-3690.fly.dev/)
+
 
 
