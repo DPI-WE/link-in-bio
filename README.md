@@ -49,6 +49,12 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Adam Bonjoc](https://adabon1.github.io/)
 - [Samuel Reuben](https://sreuben1.github.io/)
 
-## 2023-9.1
-
+## 2023-9.1 Ian's Heratics
 - [Jared Bears](https://jaredbears.github.io/links/)
+- [Alina Sapronova](https://red-thunder-3074.fly.dev/)
+- [Fidel Leal](https://shy-shape-3770.fly.dev)
+- [Thierry Chau](https://quiet-bird-3083.fly.dev/)
+- [Kat Jarboe](https://melo616.github.io/)
+- [Jason Ho](https://jasonho404.github.io/links/)
+- [Aldo Portillo](https://link-in-bio.fly.dev/)
+- [Sara Schoonover](https://still-shape-4465.fly.dev)
