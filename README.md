@@ -67,6 +67,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Alexandra Mompremier](https://bold-cloud-639.fly.dev)
 - [Aldo Portillo](https://link-in-bio.fly.dev/)
 - [Sara Schoonover](https://still-shape-4465.fly.dev)
+- [Carman Chiu](https://holy-wave-6447.fly.dev/)
 - [Dmitrii Sumenko](https://flstudio4.github.io/links/)
 - [David Hibble](https://hibbled.github.io/links)
 - [Jun So](https://nameless-dust-2677.fly.dev/)
