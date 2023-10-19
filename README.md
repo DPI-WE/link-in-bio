@@ -51,9 +51,8 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2023-9.1 Ian's Heratics
 - [Fidel Leal](https://shy-shape-3770.fly.dev)
-- [Jason Ho](https://jasonho404.github.io/links/)
 - [Thierry Chau](https://quiet-bird-3083.fly.dev/)
 - [Kat Jarboe](https://melo616.github.io/)
-- [Thierry Chau](https://quiet-bird-3083.fly.dev/)
 - [Jason Ho](https://jasonho404.github.io/links/)
 - [Aldo Portillo](https://link-in-bio.fly.dev/)
+- [Sara Schoonover](https://still-shape-4465.fly.dev)
