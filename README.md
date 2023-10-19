@@ -58,3 +58,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jason Ho](https://jasonho404.github.io/links/)
 - [Aldo Portillo](https://link-in-bio.fly.dev/)
 - [Sara Schoonover](https://still-shape-4465.fly.dev)
+- [Dmitrii Sumenko](https://flstudio4.github.io/links/)
+
