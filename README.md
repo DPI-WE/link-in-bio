@@ -68,4 +68,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Sara Schoonover](https://still-shape-4465.fly.dev)
 - [Dmitrii Sumenko](https://flstudio4.github.io/links/)
 - [Carlos Castaneda](https://carloscastanedadev.github.io/links/)
-- [Dmitrii Sumenko](https://flstudio4.github.io/links/)
+- [Brian Waddell](https://still-shape-4465.fly.dev)
