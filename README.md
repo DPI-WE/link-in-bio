@@ -48,3 +48,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ximena Castillo](https://meenoow.github.io/)
 - [Adam Bonjoc](https://adabon1.github.io/)
 - [Samuel Reuben](https://sreuben1.github.io/)
+
+## 2023-9.1
+
+- [Jared Bears](https://jaredbears.github.io/links/)
