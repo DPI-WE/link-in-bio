@@ -53,6 +53,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Carlos Castaneda](https://carloscastanedadev.github.io/links/)
 - [Jason Ho](https://jasonho404.github.io/links/)
 - [Thierry Chau] (https://quiet-bird-3083.fly.dev/)
+- [Jacob Hoffmann](https://falling-butterfly-4793.fly.dev/)
 - [Alina Sapronova](https://red-thunder-3074.fly.dev/)
 - [Fidel Leal](https://shy-shape-3770.fly.dev)
 - [Thierry Chau](https://quiet-bird-3083.fly.dev/)
