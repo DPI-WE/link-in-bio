@@ -69,5 +69,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Dmitrii Sumenko](https://flstudio4.github.io/links/)
 - [Brian Waddell](https://still-shape-4465.fly.dev)
 - [Carlos Castaneda](https://carloscastanedadev.github.io/links/)
-- [Brian Waddell](https://still-shape-4465.fly.dev)
 - [Alejandro Lopez](https://red-pine-7956.fly.dev/)
