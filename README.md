@@ -50,6 +50,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Samuel Reuben](https://sreuben1.github.io/)
 
 ## 2023-9.1 Ian's Heratics
+- [Andrew Cook] (https://andrewhcook.github.io/links/)
 - [Jacob Hoffmann](https://falling-butterfly-4793.fly.dev/)
 - [Alina Sapronova](https://red-thunder-3074.fly.dev/)
 - [Fidel Leal](https://shy-shape-3770.fly.dev)
