@@ -51,3 +51,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2023-9.1 Ian's Heratics
 - [Jason Ho](https://jasonho404.github.io/links/)
+- [Thierry Chau] (https://quiet-bird-3083.fly.dev/)
+
