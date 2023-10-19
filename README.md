@@ -68,5 +68,8 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Aldo Portillo](https://link-in-bio.fly.dev/)
 - [Sara Schoonover](https://still-shape-4465.fly.dev)
 - [Dmitrii Sumenko](https://flstudio4.github.io/links/)
+- [David Hibble](https://hibbled.github.io/links)
+- [Jun So](https://nameless-dust-2677.fly.dev/)
+- [Akin Campbell](https://akincampbell.github.io/)
 - [Carlos Castaneda](https://carloscastanedadev.github.io/links/)
 - [Brian Waddell](https://still-shape-4465.fly.dev)
