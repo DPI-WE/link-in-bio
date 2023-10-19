@@ -58,5 +58,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jason Ho](https://jasonho404.github.io/links/)
 
 
-- [David Hibble] (https://hibbled.github.io/links/)
 
+- [David Hibble] (https://hibbled.github.io/links/)
