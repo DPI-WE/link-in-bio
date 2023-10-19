@@ -69,7 +69,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Dmitrii Sumenko](https://flstudio4.github.io/links/)
 
 
-- [David Hibble] (https://hibbled.github.io/links/)
+- [David Hibble](https://hibbled.github.io/links/)
 =========
 - [Dmitrii Sumenko](https://flstudio4.github.io/links/)
 >>>>>>>>> Temporary merge branch 2
