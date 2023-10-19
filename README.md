@@ -73,3 +73,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Akin Campbell](https://akincampbell.github.io/)
 - [Carlos Castaneda](https://carloscastanedadev.github.io/links/)
 - [Brian Waddell](https://still-shape-4465.fly.dev)
+- [Ethan Huang](https://falling-cherry-9685.fly.dev/)
