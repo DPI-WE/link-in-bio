@@ -74,3 +74,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Carlos Castaneda](https://carloscastanedadev.github.io/links/)
 - [Alejandro Lopez](https://red-pine-7956.fly.dev/)
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
+- [RJ](https://rjdpi.github.io/links/)
