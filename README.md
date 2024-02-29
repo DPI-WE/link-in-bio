@@ -91,5 +91,9 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jeeho Lee](https://myappname-5vau.onrender.com/)
 - [Sera Oraha](https://link-wjhi.onrender.com/)
 - [Vincent Pham](https://phamdvincent.github.io/links/)
+<<<<<<< HEAD
+=======
 - [Eduardo Villa](https://myappname-bw1y.onrender.com/)
 
+>>>>>>> 37476237707cffa2ee78f5d5c35f5c27c784483b
+- [Alana Edwards](https://prettyalana.github.io/links/)
