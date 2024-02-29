@@ -77,3 +77,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-2.1
 - [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
+- [Sera Oraha](https://link-wjhi.onrender.com/)
+  
