@@ -77,12 +77,14 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-2.1
 
-- [Salvador Castaneda] (https://salcasta.github.io)
+- [Salvador Castaneda](https://salcasta.github.io)
 - [Gustavo Gutierrez](https://evolshenanigans.github.io/links/)
 - [Winnie Wu](https://links-bb5l.onrender.com)
 - [Reid Aumann](https://reids-links-jd4y.onrender.com/)
 - [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
+- [Maurius Hill](https://maurius-linkinbio-zvc4.onrender.com/)
 - [Kiowa Scott](https://myappname-28tg.onrender.com)
 - [Jeeho Lee](https://myappname-5vau.onrender.com/)
 - [Sera Oraha](https://link-wjhi.onrender.com/)
 - [Eduardo Villa](https://myappname-bw1y.onrender.com/)
+- [Vincent Pham](https://phamdvincent.github.io/links/)
