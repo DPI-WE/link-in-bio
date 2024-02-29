@@ -77,3 +77,17 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-2.1
 - [Andrew Pham](https://links-in-bio.onrender.com/)
+- [John Paul Fababaer](https://jpfababaer.github.io/links/)
+- [Salvador Castaneda](https://salcasta.github.io)
+- [Gustavo Gutierrez](https://evolshenanigans.github.io/links/)
+- [Winnie Wu](https://links-bb5l.onrender.com)
+- [Joanna Rodriguez](https://joanna-linkinbio-05ea.onrender.com/)
+- [Reid Aumann](https://reids-links-jd4y.onrender.com/)
+- [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
+- [Benjamin Guzman](https://linkinbio-6t1a.onrender.com/)
+- [Maurius Hill](https://maurius-linkinbio-zvc4.onrender.com/)
+- [Kiowa Scott](https://myappname-28tg.onrender.com)
+- [Jeeho Lee](https://myappname-5vau.onrender.com/)
+- [Sera Oraha](https://link-wjhi.onrender.com/)
+- [Vincent Pham](https://phamdvincent.github.io/links/)
+
