@@ -102,3 +102,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Rohan Mendiratta](https://romendi.github.io/)
 - [Lamont Sampson](https://linkinbio-lnb0.onrender.com/)
 - [Jason Johnson](https://linkinbio1.fly.dev/)
+- [Dylan Menard](https://dylanm22.github.io/links/)
