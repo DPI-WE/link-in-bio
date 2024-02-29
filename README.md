@@ -94,6 +94,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Vincent Pham](https://phamdvincent.github.io/links/)
 - [Eduardo Villa](https://myappname-bw1y.onrender.com/)
 - [Alana Edwards](https://prettyalana.github.io/links/)
+- [Jose Montes De Oca Morfin](https://josemdo.github.io/links/)
 - [Crystal Tliourane](https://lingering-sun-7526.fly.dev/)
 - [Annie Huynh](https://links-a158.onrender.com/)
 - [Jose Pantoja](https://jpanto21.github.io/)
