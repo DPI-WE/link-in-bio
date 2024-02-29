@@ -83,6 +83,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Joanna Rodriguez] (https://joanna-linkinbio-05ea.onrender.com/)
 - [Reid Aumann](https://reids-links-jd4y.onrender.com/)
 - [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
+- [Benjamin Guzman](https://linkinbio-6t1a.onrender.com/)
 - [Maurius Hill](https://maurius-linkinbio-zvc4.onrender.com/)
 - [Kiowa Scott](https://myappname-28tg.onrender.com)
 - [Jeeho Lee](https://myappname-5vau.onrender.com/)
