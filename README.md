@@ -79,6 +79,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Andrew Pham](https://links-in-bio.onrender.com/)
 - [John Paul Fababaer](https://jpfababaer.github.io/links/)
 - [Salvador Castaneda](https://salcasta.github.io)
+- [Shafaq Juda](https://link-in-bio-oeg1.onrender.com)
 - [Gustavo Gutierrez](https://evolshenanigans.github.io/links/)
 - [Winnie Wu](https://links-bb5l.onrender.com)
 - [Joanna Rodriguez](https://joanna-linkinbio-05ea.onrender.com/)
@@ -95,4 +96,6 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Alana Edwards](https://prettyalana.github.io/links/)
 - [Crystal Tliourane](https://lingering-sun-7526.fly.dev/)
 - [Annie Huynh](https://links-a158.onrender.com/)
+- [Jose Pantoja](https://jpanto21.github.io/)
+- [David Le](https://davidvle1.github.io/links/)
 
