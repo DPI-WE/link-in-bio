@@ -76,5 +76,6 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
 
 ## 2024-2.1
+- [Winnie Wu](https://links-bb5l.onrender.com)
 - [Reid Aumann](https://reids-links-jd4y.onrender.com/)
 - [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
