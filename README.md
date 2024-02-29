@@ -85,4 +85,3 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Kiowa Scott](https://myappname-28tg.onrender.com)
 - [Jeeho Lee](https://myappname-5vau.onrender.com/)
 - [Sera Oraha](https://link-wjhi.onrender.com/)
-- [Jose Pantoja](https://jpanto21.github.io/)
