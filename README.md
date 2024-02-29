@@ -75,14 +75,15 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Alejandro Lopez](https://red-pine-7956.fly.dev/)
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
 
-## 2024-2.1
-
+## 2024-2
+- [John Paul Fababaer](https://jpfababaer.github.io/links/)
 - [Salvador Castaneda](https://salcasta.github.io)
 - [Gustavo Gutierrez](https://evolshenanigans.github.io/links/)
 - [Winnie Wu](https://links-bb5l.onrender.com)
 - [Joanna Rodriguez](https://joanna-linkinbio-05ea.onrender.com/)
 - [Reid Aumann](https://reids-links-jd4y.onrender.com/)
 - [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
+- [Benjamin Guzman](https://linkinbio-6t1a.onrender.com/)
 - [Lateef Idris](https://linkinbio-iibw.onrender.com/)
 - [Maurius Hill](https://maurius-linkinbio-zvc4.onrender.com/)
 - [Kiowa Scott](https://myappname-28tg.onrender.com)
