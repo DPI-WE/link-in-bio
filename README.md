@@ -99,4 +99,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Annie Huynh](https://links-a158.onrender.com/)
 - [Jose Pantoja](https://jpanto21.github.io/)
 - [David Le](https://davidvle1.github.io/links/)
+- [Rohan Mendiratta](https://romendi.github.io/)
 - [Lamont Sampson](https://linkinbio-lnb0.onrender.com/)
