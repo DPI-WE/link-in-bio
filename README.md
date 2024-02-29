@@ -79,6 +79,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Andrew Pham](https://links-in-bio.onrender.com/)
 - [John Paul Fababaer](https://jpfababaer.github.io/links/)
 - [Salvador Castaneda](https://salcasta.github.io)
+- [Shafaq Juda](https://link-in-bio-oeg1.onrender.com)
 - [Gustavo Gutierrez](https://evolshenanigans.github.io/links/)
 - [Winnie Wu](https://links-bb5l.onrender.com)
 - [Joanna Rodriguez](https://joanna-linkinbio-05ea.onrender.com/)
