@@ -75,7 +75,8 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Alejandro Lopez](https://red-pine-7956.fly.dev/)
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
 
-## 2024-2
+## 2024-2.1
+- [Andrew Pham](https://links-in-bio.onrender.com/)
 - [John Paul Fababaer](https://jpfababaer.github.io/links/)
 - [Salvador Castaneda](https://salcasta.github.io)
 - [Gustavo Gutierrez](https://evolshenanigans.github.io/links/)
@@ -84,10 +85,12 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Reid Aumann](https://reids-links-jd4y.onrender.com/)
 - [Amanda Mendez](https://amanda-linkinbio.onrender.com/)
 - [Benjamin Guzman](https://linkinbio-6t1a.onrender.com/)
+- [Lateef Idris](https://linkinbio-iibw.onrender.com/)
 - [Maurius Hill](https://maurius-linkinbio-zvc4.onrender.com/)
 - [Kiowa Scott](https://myappname-28tg.onrender.com)
 - [Jeeho Lee](https://myappname-5vau.onrender.com/)
 - [Sera Oraha](https://link-wjhi.onrender.com/)
-- [Eduardo Villa](https://myappname-bw1y.onrender.com/)
 - [Vincent Pham](https://phamdvincent.github.io/links/)
 - [Annie Huynh](https://links-a158.onrender.com/)
+- [Eduardo Villa](https://myappname-bw1y.onrender.com/)
+- [Alana Edwards](https://prettyalana.github.io/links/)
