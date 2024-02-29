@@ -88,3 +88,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jeeho Lee](https://myappname-5vau.onrender.com/)
 - [Sera Oraha](https://link-wjhi.onrender.com/)
 - [Vincent Pham](https://phamdvincent.github.io/links/)
+- [Lamont Sampson](https://linkinbio-lnb0.onrender.com/)
