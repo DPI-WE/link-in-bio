@@ -99,4 +99,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Eduardo Villa](https://myappname-bw1y.onrender.com/)
 - [Alana Edwards](https://prettyalana.github.io/links/)
 - [David Le](https://davidvle1.github.io/links/)
-
+- [Lamont Sampson](https://linkinbio-lnb0.onrender.com/)
