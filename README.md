@@ -76,7 +76,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
 
 ## 2024-2.1
-- [Cisco Vlahakis] (https://links-ntwr.onrender.com/)
+- [Cisco Vlahakis](https://links-ntwr.onrender.com/)
 - [Andrew Pham](https://links-in-bio.onrender.com/)
 - [John Paul Fababaer](https://jpfababaer.github.io/links/)
 - [Salvador Castaneda](https://salcasta.github.io)
