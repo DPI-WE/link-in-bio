@@ -75,7 +75,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Alejandro Lopez](https://red-pine-7956.fly.dev/)
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
 
-## 2024-2.1
+## 2024-2.1 Indecisive Flapjacks
 - [Cisco Vlahakis](https://links-ntwr.onrender.com/)
 - [Andrew Pham](https://links-in-bio.onrender.com/)
 - [John Paul Fababaer](https://jpfababaer.github.io/links/)
