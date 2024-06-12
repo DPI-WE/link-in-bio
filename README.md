@@ -108,3 +108,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-5.1
 - [Reza Husain](https://links-oa1a.onrender.com/)
+- [Jennifer Rahman](https://links-ns30.onrender.com/)
+- [Rebecca Herrera](https://linksinbio.onrender.com/)
