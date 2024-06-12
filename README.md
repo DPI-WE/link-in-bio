@@ -124,3 +124,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ray Gunawidjaja](https://myappname-77jd.onrender.com)
 - [Herman Contreras](https://link-in-bio-sucr.onrender.com/)
 - [Benny Joram](https://benny-links.onrender.com/)
+- [Dylan Sarikas](https://link-in-bio-r7ww.onrender.com/)
