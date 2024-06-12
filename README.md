@@ -105,3 +105,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jason Johnson](https://linkinbio1.fly.dev/)
 - [Dylan Menard](https://dylanm22.github.io/links/)
 - [Mary Webby](https://links-z0vf.onrender.com)
+- [Natalie Demyanenko](https://saradawner2000.github.io/link-in-bio/)
