@@ -111,3 +111,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jennifer Rahman](https://links-ns30.onrender.com/)
 - [Rebecca Herrera](https://linksinbio.onrender.com/)
 - [Natalie Demyanenko](https://saradawner2000.github.io/link-in-bio/)
+- [Aizat Ibraimova] (https://aizat-linkinbio.onrender.com/)
