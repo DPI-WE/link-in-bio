@@ -108,3 +108,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-5.1
 - [Rebecca Herrera](https://linksinbio.onrender.com/)
+- [Aleksei Borovikov](https://aborov.github.io)
