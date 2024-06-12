@@ -109,6 +109,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 ## 2024-5.1
 
 - [Young Song](https://youngsong99.github.io/links/)
+- [Fadi Baker](https://fadibaker92.github.io/)
 - [Rebecca Herrera](https://linksinbio.onrender.com/)
 - [Reza Husain](https://links-oa1a.onrender.com/)
 - [Jennifer Rahman](https://links-ns30.onrender.com/)
@@ -116,3 +117,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Natalie Demyanenko](https://saradawner2000.github.io/link-in-bio/)
 - [Aizat Ibraimova] (https://aizat-linkinbio.onrender.com/)
 - [Aleksei Borovikov](https://aborov.github.io)
+- [Jan Niewielski](https://links-ocv5.onrender.com)
+- [Brandon Varner](https://github.com/brvarner/links)
+- [Arpan Patel](https://links-le1v.onrender.com/)
+- [Ricardo Juarez](https://links-m0va.onrender.com/)
