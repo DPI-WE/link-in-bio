@@ -107,14 +107,14 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Mary Webby](https://links-z0vf.onrender.com)
 
 ## 2024-5.1
-
 - [Fadi Baker](https://fadibaker92.github.io/)
 - [Rebecca Herrera](https://linksinbio.onrender.com/)
 - [Reza Husain](https://links-oa1a.onrender.com/)
 - [Jennifer Rahman](https://links-ns30.onrender.com/)
 - [Rebecca Herrera](https://linksinbio.onrender.com/)
 - [Natalie Demyanenko](https://saradawner2000.github.io/link-in-bio/)
-- [Aizat Ibraimova] (https://aizat-linkinbio.onrender.com/)
-- [Arpan Patel](https://links-le1v.onrender.com/)
+- [Aizat Ibraimova](https://aizat-linkinbio.onrender.com/)
 - [Aleksei Borovikov](https://aborov.github.io)
 - [Jan Niewielski](https://links-ocv5.onrender.com)
+- [Brandon Varner](https://github.com/brvarner/links)
+- [Arpan Patel](https://links-le1v.onrender.com/)
