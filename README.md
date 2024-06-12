@@ -108,3 +108,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-5.1
 [Fadi Baker](https://fadibaker92.github.io/)
+- [Jennifer Rahman](https://links-ns30.onrender.com/)
+- [Rebecca Herrera](https://linksinbio.onrender.com/)
