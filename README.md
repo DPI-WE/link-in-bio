@@ -107,7 +107,6 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Mary Webby](https://links-z0vf.onrender.com)
 
 ## 2024-5.1
-
 - [Young Song](https://youngsong99.github.io/links/)
 - [Fadi Baker](https://fadibaker92.github.io/)
 - [Rebecca Herrera](https://linksinbio.onrender.com/)
@@ -126,3 +125,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Benny Joram](https://benny-links.onrender.com/)
 - [Dylan Sarikas](https://link-in-bio-r7ww.onrender.com/)
 - [Kevin Calva](https://kcalva.github.io/links/)
+- [Maya Sheriff](https://linkinbio-cua4.onrender.com/)
+
