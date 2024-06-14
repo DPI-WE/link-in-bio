@@ -107,6 +107,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Mary Webby](https://links-z0vf.onrender.com)
 
 ## 2024-5.1
+- [Yusra Ahmed](https://link-in-bio-u38a.onrender.com/)
 - [Jeremy Baxter](https://link-in-bio-mwkm.onrender.com/)
 - [Young Song](https://youngsong99.github.io/links/)
 - [Fadi Baker](https://fadibaker92.github.io/)
