@@ -130,3 +130,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Maya Sheriff](https://linkinbio-cua4.onrender.com/)
 - [Adolfo Nava](https://linktree-demo.onrender.com/)
 - [Kurt Mauritz](https://my-link-in-bio-jcsm.onrender.com/)
+- [Alonzo Rice](https://links-q3e9.onrender.com)
