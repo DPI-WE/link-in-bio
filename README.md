@@ -129,4 +129,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Kevin Calva](https://kcalva.github.io/links/)
 - [Maya Sheriff](https://linkinbio-cua4.onrender.com/)
 - [Adolfo Nava](https://linktree-demo.onrender.com/)
-- [Chinemelum Iloegbunam](https://github.com/Cindellai/Link-In-Bio)
+- [Chinemelum Iloegbunam](https://link-in-bio-secx.onrender.com)
