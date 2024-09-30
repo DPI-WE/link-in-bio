@@ -138,3 +138,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ashanti Hatchett](https://links-5pgj.onrender.com/)
 - [Margarita Potylitsyna](https://margarita-linkinbio.onrender.com/)
 - [Daniela Garcia](https://dgarcia13-99.github.io/links/)
+- [Jessica JnoBaptiste] (https://jess-linkinbio.onrender.com)
