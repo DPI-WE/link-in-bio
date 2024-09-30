@@ -134,3 +134,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-9.1
 - [Vivian Davila](https://myappname-6dgn.onrender.com)
+186-ih-add-cohort
+- [Anna Villarreal](https://annavi11arrea1.github.io/)
+- [Ashanti Hatchett](https://links-5pgj.onrender.com/)
+- [Margarita Potylitsyna](https://margarita-linkinbio.onrender.com/)
