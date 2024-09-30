@@ -140,4 +140,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Daniela Garcia](https://dgarcia13-99.github.io/links/)
 - [Jessica JnoBaptiste](https://jess-linkinbio.onrender.com)
 - [Merrill Huang] (https://merrillhuang.github.io/links/)
-- [Brian Luu](https://github.com/tluu5)
+- [Brian Luu](https://tluu5.github.io/lonks/)
