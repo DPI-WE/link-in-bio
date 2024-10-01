@@ -141,3 +141,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jessica JnoBaptiste](https://jess-linkinbio.onrender.com)
 - [Merrill Huang](https://merrillhuang.github.io/links/)
 - [Brian Luu](https://tluu5.github.io/links/)
+- [Tyler Estell](https://links-pkkj.onrender.com/)
