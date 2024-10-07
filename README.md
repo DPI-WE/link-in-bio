@@ -134,4 +134,13 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-9.1
 - [Brian Kim](https://kingofthepirates.xyz/)
+- [Vivian Davila](https://myappname-6dgn.onrender.com)
+- [Anna Villarreal](https://annavi11arrea1.github.io/)
+- [Ashanti Hatchett](https://links-5pgj.onrender.com/)
 - [Margarita Potylitsyna](https://margarita-linkinbio.onrender.com/)
+- [Daniela Garcia](https://dgarcia13-99.github.io/links/)
+- [Jessica JnoBaptiste](https://jess-linkinbio.onrender.com)
+- [Merrill Huang](https://merrillhuang.github.io/links/)
+- [Brian Luu](https://tluu5.github.io/links/)
+- [Tyler Estell](https://links-pkkj.onrender.com/)
+- [Djvon Simpson](https://von-link-in-bio.onrender.com)
