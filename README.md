@@ -144,3 +144,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Brian Luu](https://tluu5.github.io/links/)
 - [Tyler Estell](https://links-pkkj.onrender.com/)
 - [Djvon Simpson](https://von-link-in-bio.onrender.com)
+- [Alonzo Rice](https://links-q3e9.onrender.com)
