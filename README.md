@@ -147,3 +147,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 ## 2024-10.1
 - [Jim Vongsouvanh](https://linkvine.onrender.com/)
+- [Alonzo Rice](https://links-q3e9.onrender.com)
+
