@@ -1,14 +1,18 @@
 # Link In Bio
+
 This repository is an index of [link in bio](https://chapters.firstdraft.com/chapters/887) URLs.
 
 ## How to Contribute
+
 Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repository (or open in codespace), create a branch with format `<issue-number>-<your-initials>-<brief-description>`, add your link in bio, commit, push branch, create a pull request into main branch, and connect the pull request to your issue. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
 
 ## Instructors
+
 - [Raghu Betina](https://rag.hu/)
 - [Ian Heraty](https://heratyian.github.io)
 
 ## 2023-1.1 Hash Rockets
+
 - [Tan Sakeer](https://tansakeer.github.io/)
 - [Piyush Patel](https://prpdpigithub.github.io/)
 - [Justin](https://github.com/Justin1111111111/Linkinbio.github.io)
@@ -20,6 +24,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [sunil patel](https://sunilkumar-techprep.github.io)
 
 ## 2023-2.1 Fullstack Pancakes
+
 - [Kiara Jefferson](https://kiara-techprep.github.io/)
 - [Jazmin Eubanks](https://jazmineubanks.github.io/jazmin-eubanks.github.io/)
 - [Yanet Roman](https://yanettechprep.github.io)
@@ -27,7 +32,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ian Heraty](https://heratyian.github.io/)
 - [Jazmine Tran](https://jptran0.github.io/)
 - [Nayla Castillo](https://castnay.github.io/)
-- [Jorge Gomez](https://gomezzzer.github.io/Gomezzzer2.github.io) 
+- [Jorge Gomez](https://gomezzzer.github.io/Gomezzzer2.github.io)
 - [Alejandra Landa](https://alelanda-rq.github.io/)
 - [Ian Heraty](https://heratyian.github.io/)
 - [Yanet Roman](https://yanettechprep.github.io)
@@ -41,7 +46,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Jazmine Tran](https://jptran0.github.io/)
 - [Brandi Davis](https://brdavis330.github.io/)
 - [Nayla Castillo](https://castnay.github.io/)
-- [Miroslava Osorio](https://mosorio1.github.io) 
+- [Miroslava Osorio](https://mosorio1.github.io)
 - [Ryan Mertz](https://ryanmertz3.github.io)
 - [Brylene Patrick](https://brylenelavelle.github.io/)
 - [Sinhue Herrera](https://sinhueherrera90.github.io/)
@@ -50,6 +55,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Samuel Reuben](https://sreuben1.github.io/)
 
 ## 2023-9.1 Ian's Heratics
+
 - [Andre Garner](https://winter-flower-6193.fly.dev/)
 - [Calvin Armstrong](https://calv-in-bio.fly.dev/)
 - [Andrew Cook](https://andrewhcook.github.io/links/)
@@ -76,6 +82,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Ethan Huang](https://falling-cherry-9685.fly.dev/)
 
 ## 2024-2.1
+
 - [Cisco Vlahakis](https://links-ntwr.onrender.com/)
 - [Andrew Pham](https://links-in-bio.onrender.com/)
 - [John Paul Fababaer](https://jpfababaer.github.io/links/)
@@ -107,6 +114,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Mary Webby](https://links-z0vf.onrender.com)
 
 ## 2024-5.1
+
 - [Yusra Ahmed](https://link-in-bio-u38a.onrender.com/)
 - [Jeremy Baxter](https://link-in-bio-mwkm.onrender.com/)
 - [Young Song](https://youngsong99.github.io/links/)
@@ -133,6 +141,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Alonzo Rice](https://links-q3e9.onrender.com)
 
 ## 2024-9.1
+
 - [Brian Kim](https://kingofthepirates.xyz/)
 - [Vivian Davila](https://myappname-6dgn.onrender.com)
 - [Anna Villarreal](https://annavi11arrea1.github.io/)
@@ -146,6 +155,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Djvon Simpson](https://von-link-in-bio.onrender.com)
 
 ## 2024-10.1
+
 - [Teresa Pham](https://teresa-c-pham.github.io/dpi-links/)
 - [Jim Vongsouvanh](https://linkvine.onrender.com/)
 - [Alonzo Rice](https://links-q3e9.onrender.com)
@@ -153,5 +163,6 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Grace Do](https://grace1501.github.io/grace-do-link-in-bio/)
 
 ## 2025-03.1
-- [Gladys Toledo-Rodriguez](https://gladys-link-in-bio.onrender.com/)
 
+- [Gladys Toledo-Rodriguez](https://gladys-link-in-bio.onrender.com/)
+- [Joel Hunt](https://link-in-bio-9kqu.onrender.com/)
