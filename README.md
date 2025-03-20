@@ -166,3 +166,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 - [Gladys Toledo-Rodriguez](https://gladys-link-in-bio.onrender.com/)
 - [Joel Hunt](https://link-in-bio-9kqu.onrender.com/)
+- [Candide Mboungou-Kimpolo](https://links-b36m.onrender.com/)
